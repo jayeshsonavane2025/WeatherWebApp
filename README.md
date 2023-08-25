@@ -1,5 +1,8 @@
 # WeatherWebApp
 Weather Finder: "Discover Weather Finder: Seamlessly track weather conditions with real-time data. Your ultimate weather companion."
+
+Open the Fing Weather website in your browser by visiting: [Weather Website - Real-Time Weather Updates](https://weatherwebsitejay.netlify.app/)
+
 # Fing Weather
 
 Get Real-Time Weather Updates at Your Fingertips.
