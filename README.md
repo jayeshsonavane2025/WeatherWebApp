@@ -12,7 +12,7 @@ Get Real-Time Weather Updates at Your Fingertips.
 - [Description](#description)
 - [Features](#features)
 - [Usage](#usage)
- 
+ - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [License](#license)
 - [Contact](#contact)
@@ -43,7 +43,16 @@ Discover the power of Fing Weather and take control of your daily plans with acc
 
 1. Open the  Weather website in your browser.
 2. Instantly view the current weather conditions, including temperature, humidity, and cloud cover.
- 
+
+## Tech Stack
+
+This web application is built using the following technologies:
+
+- **HTML:** For structuring the content and layout of the website.
+- **CSS:** For styling and visual presentation of the website.
+- **JavaScript:** For adding interactivity and dynamic features to the website.
+- **API:** To fetch real-time weather data and display it on the website.
+
 
 ## Installation
 
